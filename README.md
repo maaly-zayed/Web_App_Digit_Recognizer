@@ -1,1 +1,1 @@
-this code for digit recognizer 
+⚠️ Note: Free deployment on Heroku is no longer available since November 2022. 
